@@ -1,0 +1,11 @@
+C:\PRG282\Exercises\Kgobane_Kagiso_PRG282_ST\bin\Debug\Kgobane_Kagiso_PRG282_ST.exe.config
+C:\PRG282\Exercises\Kgobane_Kagiso_PRG282_ST\bin\Debug\Kgobane_Kagiso_PRG282_ST.exe
+C:\PRG282\Exercises\Kgobane_Kagiso_PRG282_ST\bin\Debug\Kgobane_Kagiso_PRG282_ST.pdb
+C:\PRG282\Exercises\Kgobane_Kagiso_PRG282_ST\obj\Debug\Kgobane_Kagiso_PRG282_ST.csproj.AssemblyReference.cache
+C:\PRG282\Exercises\Kgobane_Kagiso_PRG282_ST\obj\Debug\Kgobane_Kagiso_PRG282_ST.csproj.SuggestedBindingRedirects.cache
+C:\PRG282\Exercises\Kgobane_Kagiso_PRG282_ST\obj\Debug\Kgobane_Kagiso_PRG282_ST.Form1.resources
+C:\PRG282\Exercises\Kgobane_Kagiso_PRG282_ST\obj\Debug\Kgobane_Kagiso_PRG282_ST.Properties.Resources.resources
+C:\PRG282\Exercises\Kgobane_Kagiso_PRG282_ST\obj\Debug\Kgobane_Kagiso_PRG282_ST.csproj.GenerateResource.cache
+C:\PRG282\Exercises\Kgobane_Kagiso_PRG282_ST\obj\Debug\Kgobane_Kagiso_PRG282_ST.csproj.CoreCompileInputs.cache
+C:\PRG282\Exercises\Kgobane_Kagiso_PRG282_ST\obj\Debug\Kgobane_Kagiso_PRG282_ST.exe
+C:\PRG282\Exercises\Kgobane_Kagiso_PRG282_ST\obj\Debug\Kgobane_Kagiso_PRG282_ST.pdb
